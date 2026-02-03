@@ -24,6 +24,6 @@
 ![Footer](screenshots/footer.png)
 
 ## Как запустить локально
-1. Склонируй репозиторий  
+1. Склонируй репозиторий  test
    ```bash
    git clone https://github.com/ZhanarHTML/creativo-figma-to-html.git
